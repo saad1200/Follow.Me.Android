@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- BACKGROUND LABLE -->
+ 	<style name="light">
+	    <item name="android:background">#CCF0E1CD</item>
+ 	</style>
+ 	
+ 	<style name="dark">
+	    <item name="android:background">#CC000000</item>
+ 	</style>
+ 	
+ 	<style name="girl">
+	    <item name="android:background">#CCFFF3FF</item>
+ 	</style>
+ 	
+</resources>
+	

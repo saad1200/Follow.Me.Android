@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">جريدة صوت المغتربين</string>
+	<string name="almogtarbeen_text">جريدة صوت المغتربين</string>
+	<string name="almogtarbeen_url">http://www.almogtarbeen.com/mobile</string>
+	<string name="settings_refresh">تحديث الصفحة</string>
+	<string name="rss">http://www.almogtarbeen.com/mobile/RssToRss/</string>
+	<string name="more_rss">http://www.almogtarbeen.com/mobile/MoreRssToRss/</string>
+	<string name="rss_for_article">http://www.almogtarbeen.com/mobile/itemrss/</string>
+	<string name="new_rss">http://www.almogtarbeen.com/mobile/NewRssToRss/</string>
+    <string name="no_downloaded_articles">No Saved Articles</string>
+	
+	<string name="share_label">Share</string>
+	<string name="download_label">المقالات المحفوظة</string>
+	<string name="almogtarbeen_label">جريدة صوت المغتربين</string>
+	<string name="downloaded_text">تم الحفظ</string>
+	<string name="removed_from_download_text">تم الإلغاء</string>
+
+	<string name="refresh_label">Refresh</string>
+	<string name="refresh_shortcut">r</string>
+	<string name="online_label">متصل بالانترنت</string>
+	<string name="offline_label">منقطع عن الانترنت</string>
+	<string name="internet_modes_label">الانترنت</string>
+	
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Refresh -->
+    <item android:id="@+id/action_gpslocator"
+          android:icon="@drawable/gps"
+          android:title="locate me"
+          android:showAsAction="ifRoom" />
+
+</menu>

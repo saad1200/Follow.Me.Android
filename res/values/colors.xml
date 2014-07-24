@@ -1,0 +1,6 @@
+<resources>
+    <color name="red_background">#FF0000</color>
+    <color name="green_background">#00FF00</color>
+    <color name="cream">#F0E1CD</color>
+    <color name="cream_dark">#151B54</color>
+</resources>

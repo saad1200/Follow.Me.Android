@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="internet_modes">
+		<item>@string/online_label</item>
+		<item>@string/offline_label</item>
+	</array>
+</resources>

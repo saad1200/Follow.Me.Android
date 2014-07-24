@@ -1,2 +1,0 @@
-Follow.Me.Android
-=================
